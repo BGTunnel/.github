@@ -35,9 +35,8 @@ At BGtunnel, we focus on:
 
 Ready to experience the future of secure tunneling and internet privacy? Here’s how to get started:
 
-1. [Sign Up](#) for an account on our platform.
-2. Download and install the BGtunnel application for your device.
-3. Connect to any of our global servers and enjoy a secure, fast, and private internet experience.
+1. Download and install the BGtunnel application for your device.
+2. Connect to any of our global servers and enjoy a secure, fast, and private internet experience.
 
 ## Contact Us
 
