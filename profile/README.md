@@ -19,7 +19,7 @@ At BGtunnel, we focus on:
 ## Core Features
 
 - **End-to-End Encryption**: Secure data transfer with AES-256 and other advanced encryption algorithms.
-- **Cross-Platform Support**: Available for Windows, macOS, Linux, Android, and iOS devices.
+- **Cross-Platform Support**: Available for Android and iOS devices.
 - **Fast and Reliable**: High-speed servers optimized for low latency and high uptime.
 - **Global Network**: Access to servers in multiple countries, ensuring connectivity from anywhere in the world.
 - **No Logs Policy**: We respect user privacy with a strict no-logs policy, ensuring complete anonymity.
