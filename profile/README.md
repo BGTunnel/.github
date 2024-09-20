@@ -45,8 +45,8 @@ For support, inquiries, or partnership opportunities, reach out to us at:
 - Email: support@bgtunnel.com
 - Website: [www.bgtunnel.com](#)
 - Social Media:
-  - Twitter: [@BGtunnel](#)
-  - LinkedIn: [BGtunnel](#)
+  - Twitter: [@bgtunnel](https://x.com/bgtunnel_app)
+  - LinkedIn: [BGtunnel](https://www.linkedin.com/in/cakra-budiman-46418224b/)
 
 ## Contribute to BGtunnel
 
