@@ -44,14 +44,14 @@ Ready to experience the future of secure tunneling and internet freedom? Here’
 For support, inquiries, or partnership opportunities, reach out to us at:
 
 - Email: support@bgtunnel.com
-- Website: [www.bgtunnel.com](#)
+- Website: [bgtunnel.com](https://bgtunnel.com)
 - Social Media:
   - Twitter: [@bgtunnel](https://x.com/bgtunnel_app)
   - LinkedIn: [BGtunnel](https://www.linkedin.com/in/cakra-budiman-46418224b/)
 
 ## Contribute to BGtunnel
 
-BGtunnel welcomes collaboration! We invite contributions from developers and network security professionals looking to enhance our platform. Feel free to contribute or provide feedback by [visiting our repository](#).
+BGtunnel welcomes collaboration! We invite contributions from developers and network security professionals looking to enhance our platform. Feel free to contribute or provide feedback by [visiting our repository](https://github.com/BGTunnel/BGTunnel).
 
 ---
 
